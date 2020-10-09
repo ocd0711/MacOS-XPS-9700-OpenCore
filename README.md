@@ -2,7 +2,7 @@
 
 这是使用 OpenCore 制作的 EFI, 可以在 Dell XPS 17 9700(2020) 上安装 macOS X Catalina.
 
-<b>OpenCore Version:</b> 0.6.1
+<b>OpenCore Version:</b> 0.6.2
 
 <b>macOS Version:</b> Catalina 10.15.7
 
