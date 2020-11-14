@@ -39,13 +39,8 @@
 ## BIOS 设置
 
 关闭以下选项
- - VT-d
- - TPM
- - Sleep (开启 block sleep)
- - SD Card slot
  - Touchscreen (如果有触摸屏的话必须关闭, 否则触摸板无法使用)
  - Secure boot
- - Fingerprint reader
  - Disable CFG Lock (via modGRUBShell)
 
 ---
@@ -77,7 +72,7 @@ exit
 
 ## 关于睡眠的问题
 
-暂时建议在 BIOS 内开启 block sleep 选项
+进入系统后执行: sudo pmset -a disablesleep 1
 
 ---
 
