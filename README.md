@@ -1,3 +1,5 @@
+# 由于扬声器无法解决问题, 短期内将不会更新
+
 # Dell XPS 9700 macOS X
 
 这是使用 OpenCore 制作的 EFI, 可以在 Dell XPS 17 9700(2020) 上安装 macOS X Catalina.
